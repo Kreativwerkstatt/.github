@@ -4,7 +4,7 @@ We are a non-profit makerspace based in rural Bavaria, Germany, empowering child
 
 ## 🎯 What We Do
 
-- 👩‍💻 Programming courses with Scratch, Micro:bit, and Python  
+- 👩‍💻 Programming courses with Makecode, Micro:bit, and Python  
 - 🤖 Robotics workshops using LEGO Spike, Tiny:bit, and Raspberry Pi  
 - 🖨️ 3D printing, laser cutting & CAD design for beginners  
 - 🎮 Game design with MakeCode Arcade and Unity  
